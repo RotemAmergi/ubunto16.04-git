@@ -1,4 +1,4 @@
 #!/bin/bash
-cd  /home/secupi/script/
+cd  /script
 chmod +x syncfile.sh
 ./syncfile.sh
